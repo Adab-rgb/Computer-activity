@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    padding: 10px;
+    text-shadow: 5px;
+}
+
+.head {
+    border: solid black;
+    background-color: whitesmoke;
+}
+
+.heap {
+    color: black;
+    margin-right: 10px;
+    text-decoration: dashed;
+    text-align: left;
+    padding: 50px;
+    margin-right: 100px;
+}
+
+.heap :hover {
+    text-decoration: underline;
+}
+
+.heron {
+    text-align: center;
+}
